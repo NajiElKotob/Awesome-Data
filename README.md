@@ -13,11 +13,12 @@
 * [What is business intelligence? Transforming data into business insights](https://www.cio.com/article/2439504/business-intelligence-definition-and-solutions.html) - Mary K. Pratt and Josh Fruhlinger (October 2019)
 * [Four Analytic Types](https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-investing-lot-marketing-analytics-getting-right-insights/) - Gartner
 
-# Big Data
+## Big Data
 * [How Big Data Keeps Planes In The Air](https://www.forbes.com/sites/sap/2015/02/19/how-big-data-keeps-planes-in-the-air/#72dac0ec38a7) - Forbes (February 2015) 
 
 
 ## IoT
 * [Smart Cities: International Norms and Standards](https://modelcityplus.com/2018/03/15/13-smart-cities-international-norms-and-standards/) - (March 2018)
+* [IEEE Standards Help Enable Smart City Technologies for Humanity](https://beyondstandards.ieee.org/wp-content/uploads/2017/04/IEEE_Smart_City.pdf)
 
 
