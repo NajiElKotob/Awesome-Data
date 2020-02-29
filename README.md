@@ -12,6 +12,7 @@
 ## Business Intelligence and Insights
 * [What is business intelligence? Transforming data into business insights](https://www.cio.com/article/2439504/business-intelligence-definition-and-solutions.html) - Mary K. Pratt and Josh Fruhlinger (October 2019)
 * [Four Analytic Types](https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-investing-lot-marketing-analytics-getting-right-insights/) - Gartner
+* [Advanced Analytics 101: Beyond Business Intelligence](https://www.dataversity.net/advanced-analytics-101-beyond-business-intelligence/) - Elissa Gilbert (September 2016)
 
 ## Big Data
 * [How Big Data Keeps Planes In The Air](https://www.forbes.com/sites/sap/2015/02/19/how-big-data-keeps-planes-in-the-air/#72dac0ec38a7) - Forbes (February 2015) 
