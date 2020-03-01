@@ -17,9 +17,10 @@
 ## Big Data
 * [How Big Data Keeps Planes In The Air](https://www.forbes.com/sites/sap/2015/02/19/how-big-data-keeps-planes-in-the-air/#72dac0ec38a7) - Forbes (February 2015) 
 
-
 ## IoT
 * [Smart Cities: International Norms and Standards](https://modelcityplus.com/2018/03/15/13-smart-cities-international-norms-and-standards/) - (March 2018)
 * [IEEE Standards Help Enable Smart City Technologies for Humanity](https://beyondstandards.ieee.org/wp-content/uploads/2017/04/IEEE_Smart_City.pdf)
 
-
+## KPI
+### Hospitality Industry
+* [RevPAR](https://asksuite.com/blog/what-is-revpar-how-to-improve-it/) - What is RevPar and how to increase it without jeopardizing profits
