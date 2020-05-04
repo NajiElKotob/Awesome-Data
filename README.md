@@ -24,3 +24,7 @@
 ## KPI
 ### Hospitality Industry
 * [RevPAR](https://asksuite.com/blog/what-is-revpar-how-to-improve-it/) - What is RevPar and how to increase it without jeopardizing profits
+
+## Movies
+* [A Beautiful Mind](https://www.youtube.com/watch?v=9wZM7CQY130) - 2001, Have you ever doubted the power of mathematics? If so, you must watch this movie. If you have ever played a game against a computer, you have played against an algorithm that used at least some math laid down or inspired by John Nash.
+* [Moneyball](https://www.youtube.com/watch?v=-4QPVo0UIzc) - 2011, The thrill and triumph of data mining. This film put data science on the map. The protagonist of this film points out that the art of data science is to ask good questions. He also shows and feels the difficulty of explaining and selling analytics and data-based conclusions to his peers.
