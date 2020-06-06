@@ -20,10 +20,16 @@
 ## IoT
 * [Smart Cities: International Norms and Standards](https://modelcityplus.com/2018/03/15/13-smart-cities-international-norms-and-standards/) - (March 2018)
 * [IEEE Standards Help Enable Smart City Technologies for Humanity](https://beyondstandards.ieee.org/wp-content/uploads/2017/04/IEEE_Smart_City.pdf)
+-----
 
 ## KPI
+### General Information
+* [What Is A Leading And A Lagging Indicator?](https://www.bernardmarr.com/default.asp?contentID=1405) - Bernard Marr
+
 ### Hospitality Industry
 * [RevPAR](https://asksuite.com/blog/what-is-revpar-how-to-improve-it/) - What is RevPar and how to increase it without jeopardizing profits
+
+-----
 
 ## Podcasts
 * [The Data Chief](https://podcasts.apple.com/us/podcast/the-data-chief/id1509495585) - Cindi Howson, Chief Data Strategy Officer at ThoughtSpot
