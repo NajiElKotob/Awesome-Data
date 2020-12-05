@@ -20,6 +20,7 @@
   * [Descriptive analytics 101: What happened?](https://www.ibm.com/blogs/business-analytics/descriptive-analytics-101-what-happened/)
   * [Diagnostic analytics 101: Why did it happen?](https://www.ibm.com/blogs/business-analytics/diagnostic-analytics-101-why-did-it-happen/)
   * [Predictive analytics 101: What will happen next?](https://www.ibm.com/blogs/business-analytics/predictive-analytics-101-will-happen-next/)
+  * [Prescriptive analytics 101: What should be done about it?](https://www.ibm.com/blogs/business-analytics/prescriptive-analytics-done/)
   
 ## Big Data
 * [How Big Data Keeps Planes In The Air](https://www.forbes.com/sites/sap/2015/02/19/how-big-data-keeps-planes-in-the-air/#72dac0ec38a7) - Forbes (February 2015) 
