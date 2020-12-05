@@ -14,6 +14,10 @@
 * [Four Analytic Types](https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-investing-lot-marketing-analytics-getting-right-insights/) - Gartner
 * [Advanced Analytics 101: Beyond Business Intelligence](https://www.dataversity.net/advanced-analytics-101-beyond-business-intelligence/) - Elissa Gilbert (September 2016)
 
+## DA
+* Data Analytics (Dan Vesset)
+  * [Planning analytics: What is our plan?](https://www.ibm.com/blogs/business-analytics/planning-analytics-101-what-is-our-plan/)
+
 ## Big Data
 * [How Big Data Keeps Planes In The Air](https://www.forbes.com/sites/sap/2015/02/19/how-big-data-keeps-planes-in-the-air/#72dac0ec38a7) - Forbes (February 2015) 
 
