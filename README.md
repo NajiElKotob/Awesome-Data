@@ -18,6 +18,7 @@
 * Data Analytics (Dan Vesset)
   * [Planning analytics: What is our plan?](https://www.ibm.com/blogs/business-analytics/planning-analytics-101-what-is-our-plan/)
   * [Descriptive analytics 101: What happened?](https://www.ibm.com/blogs/business-analytics/descriptive-analytics-101-what-happened/)
+  * [Diagnostic analytics 101: Why did it happen?](https://www.ibm.com/blogs/business-analytics/diagnostic-analytics-101-why-did-it-happen/)
   
 ## Big Data
 * [How Big Data Keeps Planes In The Air](https://www.forbes.com/sites/sap/2015/02/19/how-big-data-keeps-planes-in-the-air/#72dac0ec38a7) - Forbes (February 2015) 
