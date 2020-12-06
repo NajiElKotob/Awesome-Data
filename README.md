@@ -4,7 +4,10 @@
 
 ## Special Papers and Reports
 * [Unlock The Power Of Data To Transform Your Business (IBM)](https://www.ibm.com/downloads/cas/1NOA5OXZ) - November 2018
-* [Gartner Top 10 Data and Analytics Trends](https://www.gartner.com/smarterwithgartner/gartner-top-10-data-analytics-trends/)
+* Gartner Top 10 Data and Analytics Trends
+  * [2020](https://www.gartner.com/smarterwithgartner/gartner-top-10-trends-in-data-and-analytics-for-2020)
+  * [2019](https://www.gartner.com/smarterwithgartner/gartner-top-10-data-analytics-trends/)
+
 
 ## Terms
 * [What Is Data Democratization?](https://www.forbes.com/sites/bernardmarr/2017/07/24/what-is-data-democratization-a-super-simple-explanation-and-the-key-pros-and-cons/#245427cb6013) - Bernard Marr (July 2017)
