@@ -27,6 +27,7 @@
 
 ### Ask the Right Questions
 * [The 5 Most Useful Business Questions to Direct Your Analytics](https://www.staceybarr.com/measure-up/the-5-most-useful-business-questions-to-direct-your-analytics/) - Analytics only works when it starts with the right questions.
+* [10 Crucial Business Questions To Ask Yourself](https://www.americanexpress.com/en-us/business/trends-and-insights/articles/10-most-crucial-business-questions/) - American Express
 
 ## Big Data
 * [How Big Data Keeps Planes In The Air](https://www.forbes.com/sites/sap/2015/02/19/how-big-data-keeps-planes-in-the-air/#72dac0ec38a7) - Forbes (February 2015) 
