@@ -1,4 +1,4 @@
-# Data Beats Opinion
+# Data > Opinion
 
 {Work in progress, stay tuned}
 
