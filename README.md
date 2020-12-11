@@ -1,4 +1,4 @@
-# Data Beasts Opinion
+# Data Beats Opinion
 
 {Work in progress, stay tuned}
 
