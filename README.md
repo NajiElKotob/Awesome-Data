@@ -12,7 +12,7 @@ Data > Opinion
   * Database Diagrams
 
 ## Models
-* DIKW
+* DIKW (Data Pyramid)
 * Hindsight, Insight, and Foresight 
 
 ## Big Data
