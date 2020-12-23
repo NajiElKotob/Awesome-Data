@@ -15,6 +15,9 @@ Data > Opinion
 * DIKW (Data Pyramid)
 * Hindsight, Insight, and Foresight 
 
+## Planning
+* [CoNVO](https://marcabraham.com/2015/02/04/book-review-thinking-with-data/) - “Thinking with Data”
+
 ## Big Data
 * [Awesome Big Data](https://github.com/NajiElKotob/Awesome-BigData)
 
