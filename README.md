@@ -1,6 +1,18 @@
-# Data > Opinion
+# Awesome Data
+Data > Opinion
 
 {Work in progress, stay tuned}
+
+## Data
+* What is Data
+* Data Types
+* Data Sources
+* Databases
+  * Tables
+  * Database Diagrams
+
+## Big Data
+* [Awesome Big Data](https://github.com/NajiElKotob/Awesome-BigData)
 
 ## Special Papers and Reports
 * [Unlock The Power Of Data To Transform Your Business (IBM)](https://www.ibm.com/downloads/cas/1NOA5OXZ) - November 2018
