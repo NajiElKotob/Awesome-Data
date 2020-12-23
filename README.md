@@ -11,6 +11,10 @@ Data > Opinion
   * Tables
   * Database Diagrams
 
+## Models
+* DIKW
+* Hindsight, Insight, and Foresight 
+
 ## Big Data
 * [Awesome Big Data](https://github.com/NajiElKotob/Awesome-BigData)
 
