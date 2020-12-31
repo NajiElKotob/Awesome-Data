@@ -68,6 +68,13 @@ Data > Opinion
 ## Podcasts
 * [The Data Chief](https://podcasts.apple.com/us/podcast/the-data-chief/id1509495585) - Cindi Howson, Chief Data Strategy Officer at ThoughtSpot
 
+-----
+
+## Books
+* [Thinking with Data: How to Turn Information into Insights](https://www.amazon.com/Thinking-Data-Turn-Information-Insights/dp/1449362931) - Max Shron (2014)
+
+-----
+
 ## Movies
 * [A Beautiful Mind](https://www.youtube.com/watch?v=9wZM7CQY130) - 2001, Have you ever doubted the power of mathematics? If so, you must watch this movie. If you have ever played a game against a computer, you have played against an algorithm that used at least some math laid down or inspired by John Nash.
 * [Moneyball](https://www.youtube.com/watch?v=-4QPVo0UIzc) - 2011, The thrill and triumph of data mining. This film put data science on the map. The protagonist of this film points out that the art of data science is to ask good questions. He also shows and feels the difficulty of explaining and selling analytics and data-based conclusions to his peers.
