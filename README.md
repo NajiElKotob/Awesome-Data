@@ -14,6 +14,7 @@ Data > Opinion
 ## Models
 * DIKW (Data Pyramid)
 * Hindsight, Insight, and Foresight 
+* CRISP-DM [learn more](ftp://ftp.software.ibm.com/software/analytics/spss/support/Modeler/Documentation/14/UserManual/CRISP-DM.pdf)
 
 ## Planning
 * CoNVO
