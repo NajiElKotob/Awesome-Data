@@ -16,7 +16,9 @@ Data > Opinion
 * Hindsight, Insight, and Foresight 
 
 ## Planning
-* [CoNVO](https://marcabraham.com/2015/02/04/book-review-thinking-with-data/) - “Thinking with Data”
+* CoNVO
+  * [Thinking with Data (Book Review)](https://marcabraham.com/2015/02/04/book-review-thinking-with-data/)
+  * [The Four Parts of Project Scope](https://medium.com/better-programming/the-four-parts-of-project-scope-2275b47e3a90)
 
 ## Big Data
 * [Awesome Big Data](https://github.com/NajiElKotob/Awesome-BigData)
