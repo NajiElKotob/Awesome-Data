@@ -34,6 +34,7 @@ Data > Opinion
 
 ## Terms
 * [What Is Data Democratization?](https://www.forbes.com/sites/bernardmarr/2017/07/24/what-is-data-democratization-a-super-simple-explanation-and-the-key-pros-and-cons/#245427cb6013) - Bernard Marr (July 2017)
+* [It's "day-tuh"](http://businessoverbroadway.com/2015/11/25/no-matter-how-you-say-it-im-thankful-for-data/) - No Matter How You Say It, I’m Thankful for Data. [What's the Difference?](https://www.youtube.com/watch?v=nqwx2XFb1fQ)
 
 ## Business Intelligence and Insights
 * [What is business intelligence? Transforming data into business insights](https://www.cio.com/article/2439504/business-intelligence-definition-and-solutions.html) - Mary K. Pratt and Josh Fruhlinger (October 2019)
