@@ -80,7 +80,8 @@ Data > Opinion
 
 -----
 
-## Movies
+## Movies and Series
+* [Connected](https://www.netflix.com/title/81031737) - 2020, Science journalist Latif Nasser investigates the surprising and intricate ways in which we are connected to each other, the world and the universe.
 * [A Beautiful Mind](https://www.youtube.com/watch?v=9wZM7CQY130) - 2001, Have you ever doubted the power of mathematics? If so, you must watch this movie. If you have ever played a game against a computer, you have played against an algorithm that used at least some math laid down or inspired by John Nash.
 * [Moneyball](https://www.youtube.com/watch?v=-4QPVo0UIzc) - 2011, The thrill and triumph of data mining. This film put data science on the map. The protagonist of this film points out that the art of data science is to ask good questions. He also shows and feels the difficulty of explaining and selling analytics and data-based conclusions to his peers.
 * [The Imitation Game](https://www.youtube.com/watch?v=nuPZUUED5uk) - 2014, This film a highly recommended movie for data scientist and analysts. This movie aptly depicts the incredible power of mathematics, computer science and logical thinking.
