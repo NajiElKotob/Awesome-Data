@@ -45,6 +45,8 @@ Data > Opinion
 * Certificate authentication
 * Encryption
 * Encoding
+* VPN
+* Public USB power charging stations 
 
 
 
