@@ -32,6 +32,13 @@ Data > Opinion
   * [2019](https://www.gartner.com/smarterwithgartner/gartner-top-10-data-analytics-trends/)
 
 
+## Data Security
+* Social engineering (Urgency, fear, curiosity, helpfulness, greed)
+* Phishing and Smishing (SMS Phishing)
+* Data Leaks (Deliberately, Accidentally)
+* Data Breach
+* Ransomware 
+
 ## Terms
 * [What Is Data Democratization?](https://www.forbes.com/sites/bernardmarr/2017/07/24/what-is-data-democratization-a-super-simple-explanation-and-the-key-pros-and-cons/#245427cb6013) - Bernard Marr (July 2017)
 * [It's "day-tuh"](http://businessoverbroadway.com/2015/11/25/no-matter-how-you-say-it-im-thankful-for-data/) - No Matter How You Say It, I’m Thankful for Data. [What's the Difference?](https://www.youtube.com/watch?v=nqwx2XFb1fQ)
