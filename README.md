@@ -44,6 +44,7 @@ Data > Opinion
 * Biometric
 * Certificate authentication
 * Encryption
+* Cyrillic alphabets
 * Encoding
 * VPN
 * Public USB power charging stations 
