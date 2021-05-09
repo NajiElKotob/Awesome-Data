@@ -43,6 +43,8 @@ Data > Opinion
 * Single Sign On (SSO)
 * Biometric
 * Certificate authentication
+* Encryption
+* Encoding
 
 
 
