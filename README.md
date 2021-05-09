@@ -38,6 +38,13 @@ Data > Opinion
 * Data Leaks (Deliberately, Accidentally)
 * Data Breach
 * Ransomware 
+* Password (Variety, length, Reusing, Password manager, Security Questions)
+* Two-factor authentication
+* Single Sign On (SSO)
+* Biometric
+* Certificate authentication
+
+
 
 ## Terms
 * [What Is Data Democratization?](https://www.forbes.com/sites/bernardmarr/2017/07/24/what-is-data-democratization-a-super-simple-explanation-and-the-key-pros-and-cons/#245427cb6013) - Bernard Marr (July 2017)
