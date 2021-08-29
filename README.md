@@ -10,7 +10,8 @@ Data > Opinion
 * Databases
   * Tables
   * Database Diagrams
-
+* Data-X
+ * [Are You Data-driven, Data-informed or Data-inspired?](https://amplitude.com/blog/data-driven-data-informed-data-inspired) 
 ## Models
 * DIKW (Data Pyramid)
 * Hindsight, Insight, and Foresight 
