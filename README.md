@@ -1,7 +1,7 @@
 # Awesome Data
 Data > Opinion
 
-{Work in progress, stay tuned}
+{Awesome Works in Progress}
 
 ## Data
 * What is Data
