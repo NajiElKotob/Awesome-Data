@@ -93,7 +93,7 @@ Data > Opinion
 ## Podcasts
 * [The Data Chief](https://podcasts.apple.com/us/podcast/the-data-chief/id1509495585) - Cindi Howson, Chief Data Strategy Officer at ThoughtSpot
 * [Business of Data](https://business-of-data.com/category/podcasts/) - business-of-data.com
-
+* [BBC Sounds](https://www.bbc.co.uk/sounds/search?q=data) - bbc.co.uk
 
 -----
 
