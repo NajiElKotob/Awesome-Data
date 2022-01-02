@@ -34,6 +34,7 @@ Data > Opinion
 
 
 ## Data Security
+* [Data classification & sensitivity label taxonomy](https://docs.microsoft.com/en-us/compliance/assurance/assurance-data-classification-and-labels)
 * Social engineering (Urgency, fear, curiosity, helpfulness, greed)
 * Phishing and Smishing (SMS Phishing)
 * Data Leaks (Deliberately, Accidentally)
