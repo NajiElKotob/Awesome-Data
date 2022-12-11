@@ -72,6 +72,7 @@ Data > Opinion
 
 ## Articles
 * [Why Psychologists can be great Data Scientists](https://towardsdatascience.com/why-psychologists-can-be-great-data-scientists-970552b5223)
+* [What Is Data and Analytics?](https://www.gartner.com/en/topics/data-and-analytics) - gartner.com
 
 ### Ask the Right Questions
 * [The 5 Most Useful Business Questions to Direct Your Analytics](https://www.staceybarr.com/measure-up/the-5-most-useful-business-questions-to-direct-your-analytics/) - Analytics only works when it starts with the right questions.
