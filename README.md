@@ -97,6 +97,7 @@ Data > Opinion
 * [Business of Data](https://business-of-data.com/category/podcasts/) - business-of-data.com
 * [BBC Sounds](https://www.bbc.co.uk/sounds/search?q=data) - bbc.co.uk
 * [Analytics Power Hour](https://analyticshour.io/all-podcast-episodes/) - analyticshour.io
+* [Raw Data by P3 Adaptive](https://p3adaptive.com/rawdatapodcast/) - p3adaptive.com
 
 -----
 
