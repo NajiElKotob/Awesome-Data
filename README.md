@@ -99,6 +99,7 @@ Data > Opinion
 * [Analytics Power Hour](https://analyticshour.io/all-podcast-episodes/) - analyticshour.io
 * [Raw Data by P3 Adaptive](https://p3adaptive.com/rawdatapodcast/) - p3adaptive.com
 * [Storytelling with Data](https://www.storytellingwithdata.com/podcast) - storytellingwithdata.com
+* [SuperDataScience](https://www.superdatascience.com/podcast) - superdatascience.com
 
 -----
 
