@@ -100,6 +100,7 @@ Data > Opinion
 * [Raw Data by P3 Adaptive](https://p3adaptive.com/rawdatapodcast/) - p3adaptive.com
 * [Storytelling with Data](https://www.storytellingwithdata.com/podcast) - storytellingwithdata.com
 * [SuperDataScience](https://www.superdatascience.com/podcast) - superdatascience.com
+* [Data Bytes by Women in Data](https://www.womenindata.org/podcast) - womenindata.org
 
 -----
 
