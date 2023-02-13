@@ -7,6 +7,8 @@
 * Understanding the difference between structured and unstructured data can determine where data should be stored and what kind of analysis is most appropriate.
 * A data analyst enables businesses to maximize the value of their data assets. They're responsible for exploring data to identify trends, designing and building analytical models, and enabling advanced analytics capabilities through reports and visualizations.
 * A data analyst processes raw data into relevant insights based on identified business requirements.
+* Successful data analysts need a combination of technical and soft skills (Communication; Process management; Problem solving; Collaboration and team work; Creativity; etc.) to solve problems and deliver actionable insights.
+
 
 
 ## References
