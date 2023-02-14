@@ -9,6 +9,9 @@
 * A data analyst processes raw data into relevant insights based on identified business requirements.
 * Successful data analysts need a combination of technical and soft skills (Communication; Process management; Problem solving; Collaboration and team work; Creativity; etc.) to solve problems and deliver actionable insights.
 * Business Intelligence => modern analytics
+* Building a data culture, building a center of excellence, and supporting analytics practitioners with a community of practice are only a few strategies to ensure that analytics will scale throughout your organization. These, combined with the right technologies will help your organization scale analytics solutions.
+
+
 
 
 
