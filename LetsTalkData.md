@@ -11,7 +11,7 @@
 * Business Intelligence => modern analytics
 * Building a data culture, building a center of excellence, and supporting analytics practitioners with a community of practice are only a few strategies to ensure that analytics will scale throughout your organization. These, combined with the right technologies will help your organization scale analytics solutions.
 * Microsoft Purview is a unified data-governance service that helps you manage and govern your on-premises, multicloud, and software-as-a-service (SaaS) data.
-
+* The main elements of [Microsoft Purview](https://azure.microsoft.com/en-us/products/purview/) are the Microsoft Purview Data Map, Purview Data Catalog, and Purview Data Estate Insights.
 
 
 
@@ -20,5 +20,6 @@
 
 ## References
 * [Microsoft Learn](https://learn.microsoft.com/) - learn.microsoft.com
+* [Microsoft Purview](https://azure.microsoft.com/en-us/products/purview/) - azure.microsoft.com
 
 
