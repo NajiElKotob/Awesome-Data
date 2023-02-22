@@ -14,6 +14,8 @@
 * The main elements of [Microsoft Purview](https://azure.microsoft.com/en-us/products/purview/) are the Microsoft Purview Data Map, Purview Data Catalog, and Purview Data Estate Insights.
 * Data Map (Microsoft Purview) = Data assets + Lineage + Classifications + Business Context.
 * Microsoft Purview is a unified data governance service that helps you manage and govern your on-premises, multi-cloud, and software-as-a-service (SaaS) data. Data professionals can easily create a holistic, up-to-date map of the entire data landscape. Microsoft Purview includes automated data discovery, sensitive data classification, and end-to-end data lineage. Microsoft Purview can empower data analysts and other data consumers to find valuable, trustworthy data.
+* Microsoft Purview empowers data analysts and other data consumers to find valuable, trustworthy data by searching and browsing data assets across an organization's data estate.
+
 
 
 
