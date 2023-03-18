@@ -16,6 +16,10 @@
 * Microsoft Purview is a unified data governance service that helps you manage and govern your on-premises, multi-cloud, and software-as-a-service (SaaS) data. Data professionals can easily create a holistic, up-to-date map of the entire data landscape. Microsoft Purview includes automated data discovery, sensitive data classification, and end-to-end data lineage. Microsoft Purview can empower data analysts and other data consumers to find valuable, trustworthy data.
 * Microsoft Purview empowers data analysts and other data consumers to find valuable, trustworthy data by searching and browsing data assets across an organization's data estate.
 * Of all types of data, real-time data holds the highest value.
+* In a typical large-scale analytics solution, data is transferred and transformed across multiple systems until it's loaded into an analytical data store for reporting and analysis. 
+* Tracking the lineage of data as moves across the enterprise is an important factor in determining the provenance, trustworthiness, and recency of data assets used to inform analysis and decision making.
+
+
 
 
 ## References
