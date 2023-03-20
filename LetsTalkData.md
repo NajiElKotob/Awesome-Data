@@ -18,7 +18,7 @@
 * Of all types of data, real-time data holds the highest value.
 * In a typical large-scale analytics solution, data is transferred and transformed across multiple systems until it's loaded into an analytical data store for reporting and analysis. 
 * Tracking the lineage of data as moves across the enterprise is an important factor in determining the provenance, trustworthiness, and recency of data assets used to inform analysis and decision making.
-
+* Azure Synapse Analytics provides a single, cloud-scale platform that supports multiple analytical technologies; enabling a consolidated and integrated experience for data engineers, data analysts, data scientists, and other professionals who need to work with data.
 
 
 
