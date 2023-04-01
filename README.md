@@ -90,6 +90,9 @@ Data > Opinion
 ## KPI
 * [Awesome KPIs](https://github.com/NajiElKotob/Awesome-KPIs)
 
+-----
+## Google Trends
+* [Data Key Terms](https://trends.google.com/trends/explore?date=all&q=data%20analysis,data%20analytics,insights,artificial%20intelligence&hl=en) - Data Analysis; Data Analytics; Insight; Artificial Integlligence
 
 -----
 
