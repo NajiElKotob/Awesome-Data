@@ -32,6 +32,9 @@ Data > Opinion
   * [2020](https://www.gartner.com/smarterwithgartner/gartner-top-10-trends-in-data-and-analytics-for-2020)
   * [2019](https://www.gartner.com/smarterwithgartner/gartner-top-10-data-analytics-trends/)
 
+## Data Culture
+* [Building a Data Culture](https://www.youtube.com/playlist?list=PLo1cavpz-BB7c8yPJSW8KiNNvyKk2mgoz)
+  
 ## Interpretations
 * [Dips, slumps, growth and peaks: talking about data (2)](https://dictionaryblog.cambridge.org/2020/06/03/dips-slumps-growth-and-peaks-talking-about-data-2/)
 
