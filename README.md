@@ -131,3 +131,4 @@ Data > Opinion
 * [21](https://www.youtube.com/watch?v=oqkdB7It5Go) - 21 is a fact-based story about six MIT students who were brilliant with numbers who decide to step into the fast-paced Vegas casino action to make some money at the blackjack tables.
 * [The Social Dilemma](https://www.thesocialdilemma.com/) - “The Social Dilemma” tells us that many social media companies succeed by capturing as much of our attention as they can, then selling that attention to the highest bidders. As the saying goes, if you're not paying for the product, you are the product.
   * [3 Things We Learned About Social Media from Netflix’s “The Social Dilemma”](https://launchpad.syr.edu/3-things-we-learned-about-social-media-from-netflixs-the-social-dilemma/) 
+* The Big Short 
