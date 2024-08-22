@@ -81,6 +81,9 @@ Data > Opinion
 * [Navigating the Data Ecosystem: A Revolutionary Analytics Architecture](https://www.sqlbi.com/articles/navigating-the-data-ecosystem-a-revolutionary-analytics-architecture/) - sqlbi.com
 * [The 7 main stages of Data Analytics](https://www.linkedin.com/pulse/7-main-stages-data-analytics-naji-el-kotob/) - Naji El Kotob
 * [QFD](https://www.linkedin.com/pulse/qfd-naji-el-kotob/)
+### Data-Driven Decision-Making
+* [The Advantages of Data-Driven Decision-Making](https://online.hbs.edu/blog/post/data-driven-decision-making) - online.hbs.edu
+
 
 ### Ask the Right Questions
 * [The 5 Most Useful Business Questions to Direct Your Analytics](https://www.staceybarr.com/measure-up/the-5-most-useful-business-questions-to-direct-your-analytics/) - Analytics only works when it starts with the right questions.
