@@ -81,13 +81,13 @@ Data > Opinion
 * [QFD](https://www.linkedin.com/pulse/qfd-naji-el-kotob/)
 
 ### Data Analytics
-* [What is Data Analytics? The Complete Guide](https://www.tableau.com/learn/articles/what-is-data-analytics) - tableau.com
+* [What is Data Analytics? The Complete Guide](https://www.tableau.com/learn/articles/what-is-data-analytics) ⭐ - tableau.com
 * [What Is Data and Analytics?](https://www.gartner.com/en/topics/data-and-analytics) - gartner.com
 * [The 7 main stages of Data Analytics](https://www.linkedin.com/pulse/7-main-stages-data-analytics-naji-el-kotob/) - Naji El Kotob
 
 ### Data-Driven Decision-Making
-* [The Advantages of Data-Driven Decision-Making](https://online.hbs.edu/blog/post/data-driven-decision-making) - online.hbs.edu
-
+* [The Advantages of Data-Driven Decision-Making](https://online.hbs.edu/blog/post/data-driven-decision-making) ⭐ - online.hbs.edu
+* [6 steps to effectively make data-driven decisions](https://www.tableau.com/learn/articles/data-driven-decision-making) - tableau.com
 
 ### Ask the Right Questions
 * [The 5 Most Useful Business Questions to Direct Your Analytics](https://www.staceybarr.com/measure-up/the-5-most-useful-business-questions-to-direct-your-analytics/) - Analytics only works when it starts with the right questions.
