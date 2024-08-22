@@ -77,10 +77,14 @@ Data > Opinion
 
 ## Articles
 * [Why Psychologists can be great Data Scientists](https://towardsdatascience.com/why-psychologists-can-be-great-data-scientists-970552b5223)
-* [What Is Data and Analytics?](https://www.gartner.com/en/topics/data-and-analytics) - gartner.com
 * [Navigating the Data Ecosystem: A Revolutionary Analytics Architecture](https://www.sqlbi.com/articles/navigating-the-data-ecosystem-a-revolutionary-analytics-architecture/) - sqlbi.com
-* [The 7 main stages of Data Analytics](https://www.linkedin.com/pulse/7-main-stages-data-analytics-naji-el-kotob/) - Naji El Kotob
 * [QFD](https://www.linkedin.com/pulse/qfd-naji-el-kotob/)
+
+### Data Analytics
+* [What is Data Analytics? The Complete Guide](https://www.tableau.com/learn/articles/what-is-data-analytics) - tableau.com
+* [What Is Data and Analytics?](https://www.gartner.com/en/topics/data-and-analytics) - gartner.com
+* [The 7 main stages of Data Analytics](https://www.linkedin.com/pulse/7-main-stages-data-analytics-naji-el-kotob/) - Naji El Kotob
+
 ### Data-Driven Decision-Making
 * [The Advantages of Data-Driven Decision-Making](https://online.hbs.edu/blog/post/data-driven-decision-making) - online.hbs.edu
 
