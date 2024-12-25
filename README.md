@@ -127,6 +127,9 @@ Data > Opinion
 
 -----
 
+## Stories
+* [Insight - Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/)
+
 ## Movies and Series
 * [Coded Bias](https://www.netflix.com/lb-en/title/81328723) - 2020, This documentary investigates the bias in algorithms after M.I.T. Media Lab researcher Joy Buolamwini uncovered flaws in facial recognition technology.
 * [Connected](https://www.netflix.com/title/81031737) - 2020, Science journalist Latif Nasser investigates the surprising and intricate ways in which we are connected to each other, the world and the universe.
