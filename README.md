@@ -4,14 +4,13 @@ Data > Opinion
 {Awesome Works in Progress}
 
 ## Data
-* What is Data
-* Data Types
-* Data Sources
-* Databases
-  * Tables
-  * Database Diagrams
-* Data-X
- * [Are You Data-driven, Data-informed or Data-inspired?](https://amplitude.com/blog/data-driven-data-informed-data-inspired) 
+* [Are You Data-driven, Data-informed or Data-inspired?](https://amplitude.com/blog/data-driven-data-informed-data-inspired) 
+* [Building a Data Culture](https://www.youtube.com/playlist?list=PLo1cavpz-BB7c8yPJSW8KiNNvyKk2mgoz)
+* [Data classification & sensitivity label taxonomy](https://docs.microsoft.com/en-us/compliance/assurance/assurance-data-classification-and-labels)
+* [Why Psychologists can be great Data Scientists](https://towardsdatascience.com/why-psychologists-can-be-great-data-scientists-970552b5223)
+* [Navigating the Data Ecosystem: A Revolutionary Analytics Architecture](https://www.sqlbi.com/articles/navigating-the-data-ecosystem-a-revolutionary-analytics-architecture/) - sqlbi.com
+* [QFD](https://www.linkedin.com/pulse/qfd-naji-el-kotob/)
+
 ## Models
 * DIKW (Data Pyramid)
 * Hindsight, Insight, and Foresight 
@@ -32,31 +31,6 @@ Data > Opinion
   * [2020](https://www.gartner.com/smarterwithgartner/gartner-top-10-trends-in-data-and-analytics-for-2020)
   * [2019](https://www.gartner.com/smarterwithgartner/gartner-top-10-data-analytics-trends/)
 
-## Data Culture
-* [Building a Data Culture](https://www.youtube.com/playlist?list=PLo1cavpz-BB7c8yPJSW8KiNNvyKk2mgoz)
-  
-## Interpretations
-* [Dips, slumps, growth and peaks: talking about data (2)](https://dictionaryblog.cambridge.org/2020/06/03/dips-slumps-growth-and-peaks-talking-about-data-2/)
-
-## Data Security
-* [Data classification & sensitivity label taxonomy](https://docs.microsoft.com/en-us/compliance/assurance/assurance-data-classification-and-labels)
-* Social engineering (Urgency, fear, curiosity, helpfulness, greed)
-* Phishing and Smishing (SMS Phishing)
-* Data Leaks (Deliberately, Accidentally)
-* Data Breach
-* Ransomware 
-* Password (Variety, length, Reusing, Password manager, Security Questions)
-* Two-factor authentication
-* Single Sign On (SSO)
-* Biometric
-* Certificate authentication
-* Encryption
-* Cyrillic alphabets
-* Encoding
-* VPN
-* Public USB power charging stations 
-
-
 
 ## Terms
 * [What Is Data Democratization?](https://www.forbes.com/sites/bernardmarr/2017/07/24/what-is-data-democratization-a-super-simple-explanation-and-the-key-pros-and-cons/#245427cb6013) - Bernard Marr (July 2017)
@@ -75,10 +49,6 @@ Data > Opinion
   * [Predictive analytics 101: What will happen next?](https://www.ibm.com/blogs/business-analytics/predictive-analytics-101-will-happen-next/)
   * [Prescriptive analytics 101: What should be done about it?](https://www.ibm.com/blogs/business-analytics/prescriptive-analytics-done/)
 
-## Articles
-* [Why Psychologists can be great Data Scientists](https://towardsdatascience.com/why-psychologists-can-be-great-data-scientists-970552b5223)
-* [Navigating the Data Ecosystem: A Revolutionary Analytics Architecture](https://www.sqlbi.com/articles/navigating-the-data-ecosystem-a-revolutionary-analytics-architecture/) - sqlbi.com
-* [QFD](https://www.linkedin.com/pulse/qfd-naji-el-kotob/)
 
 ### Data Analytics
 * [What is Data Analytics? The Complete Guide](https://www.tableau.com/learn/articles/what-is-data-analytics) ⭐ - tableau.com
@@ -92,9 +62,6 @@ Data > Opinion
 ### Ask the Right Questions
 * [The 5 Most Useful Business Questions to Direct Your Analytics](https://www.staceybarr.com/measure-up/the-5-most-useful-business-questions-to-direct-your-analytics/) - Analytics only works when it starts with the right questions.
 * [10 Crucial Business Questions To Ask Yourself](https://www.americanexpress.com/en-us/business/trends-and-insights/articles/10-most-crucial-business-questions/) - American Express
-
-## Big Data
-* [How Big Data Keeps Planes In The Air](https://www.forbes.com/sites/sap/2015/02/19/how-big-data-keeps-planes-in-the-air/#72dac0ec38a7) - Forbes (February 2015) 
 
 ## IoT
 * [Smart Cities: International Norms and Standards](https://modelcityplus.com/2018/03/15/13-smart-cities-international-norms-and-standards/) - (March 2018)
@@ -129,6 +96,7 @@ Data > Opinion
 
 ## Stories
 * [Insight - Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/)
+* [How Big Data Keeps Planes In The Air](https://www.forbes.com/sites/sap/2015/02/19/how-big-data-keeps-planes-in-the-air/#72dac0ec38a7) - Forbes (February 2015) 
 
 ## Movies and Series
 * [Coded Bias](https://www.netflix.com/lb-en/title/81328723) - 2020, This documentary investigates the bias in algorithms after M.I.T. Media Lab researcher Joy Buolamwini uncovered flaws in facial recognition technology.
