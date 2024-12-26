@@ -98,6 +98,7 @@ Data > Opinion
 * [Insight - Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/)
 * [How Big Data Keeps Planes In The Air](https://www.forbes.com/sites/sap/2015/02/19/how-big-data-keeps-planes-in-the-air/#72dac0ec38a7) - Forbes (February 2015)
 * [The Incredible True Story Behind AMC’s Halt And Catch Fire – How Compaq Cloned IBM And Created An Empire](https://www.internethistorypodcast.com/2014/05/the-incredible-true-story-behind-amcs-halt-and-catch-fire-how-compaq-cloned-ibm-and-created-an-empire/) - internethistorypodcast.com
+* [The Rise of DOS: How Microsoft Got the IBM PC OS Contract](https://www.pcmag.com/news/the-rise-of-dos-how-microsoft-got-the-ibm-pc-os-contract)
 
 ## Movies and Series
 * [Coded Bias](https://www.netflix.com/lb-en/title/81328723) - 2020, This documentary investigates the bias in algorithms after M.I.T. Media Lab researcher Joy Buolamwini uncovered flaws in facial recognition technology.
