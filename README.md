@@ -93,6 +93,9 @@ Data > Opinion
 ## Books
 * [Thinking with Data: How to Turn Information into Insights](https://www.amazon.com/Thinking-Data-Turn-Information-Insights/dp/1449362931) - Max Shron (2014)
 
+## Articles
+* [What is a Data Lake?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-data-lake/?msockid=384df28e91e76f200fc5e7c790ff6e63) - microsoft.com
+
 -----
 
 ## Stories
