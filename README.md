@@ -96,6 +96,7 @@ Data > Opinion
 ## Articles
 * [What is a Data Lake?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-data-lake/?msockid=384df28e91e76f200fc5e7c790ff6e63) - microsoft.com
 * [Blockchain Database: A Comprehensive Guide](https://www.mongodb.com/resources/basics/databases/blockchain-database?msockid=384df28e91e76f200fc5e7c790ff6e63) - mongodb.com
+* [The World’s Oldest Blockchain Has Been Hiding in the New York Times Since 1995](https://www.vice.com/en/article/what-was-the-first-blockchain/) - vice.com
   
 -----
 
