@@ -95,7 +95,8 @@ Data > Opinion
 
 ## Articles
 * [What is a Data Lake?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-data-lake/?msockid=384df28e91e76f200fc5e7c790ff6e63) - microsoft.com
-
+* [Blockchain Database: A Comprehensive Guide](https://www.mongodb.com/resources/basics/databases/blockchain-database?msockid=384df28e91e76f200fc5e7c790ff6e63) - mongodb.com
+  
 -----
 
 ## Stories
