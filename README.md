@@ -87,6 +87,7 @@ Data > Opinion
 * [Storytelling with Data](https://www.storytellingwithdata.com/podcast) - storytellingwithdata.com
 * [SuperDataScience](https://www.superdatascience.com/podcast) - superdatascience.com
 * [Data Bytes by Women in Data](https://www.womenindata.org/podcast) - womenindata.org
+* [The Analytic Mind](https://creators.spotify.com/pod/profile/theanalyticmind/) - Enterprise DNA
 
 -----
 
